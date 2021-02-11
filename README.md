@@ -1,3 +1,3 @@
 # Code Challenges
 ## Purpose:
-To store completed code challenges for reference. 
+To store completed code challenges for reference.
